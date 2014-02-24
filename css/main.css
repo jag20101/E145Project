@@ -24,6 +24,10 @@ body{
 	opacity:0.4;
 }
 
+.small_form_container{
+	padding-top:13%;
+}
+
 #vita_logo{
 	position:absolute;
 	bottom:0;
@@ -31,6 +35,9 @@ body{
 	height: 25px;
 }
 
+#main_table{
+	height:85%;
+}
 #main_logo{
 	width:50%;
 }
@@ -42,6 +49,7 @@ body{
 .form_container{
 	margin-top:1%;
 	margin-bottom:1%;
+	height:90%;
 }
 
 #form_table{
@@ -64,4 +72,9 @@ body{
 
 #email_tbox{
 	width:90%;
+}
+
+hr{
+	margin-top: 10px;
+	margin-bottom:10px;
 }
