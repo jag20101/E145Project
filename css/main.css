@@ -17,7 +17,8 @@ body{
 	padding-top:15px;
 	border:3px white solid;
 	border-radius:10px;
-	
+	text-align:center;
+	height:90%;
 }
 
 #form_container:after{
@@ -78,4 +79,9 @@ body{
 hr{
 	margin-top: 10px;
 	margin-bottom:10px;
+}
+
+#thank_you{
+	margin-top:20%;
+	color:green;
 }
