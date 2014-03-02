@@ -93,3 +93,21 @@ hr{
 	margin-top:20%;
 	color:green;
 }
+
+.questionaire_table tr{
+	text-align:center;
+}
+
+.questionaire_table h1, h4{
+	color:white;
+}
+
+.questionaire_table textarea{
+	resize: none;
+	border-radius: 8px;
+}
+
+#form_submit_btn{
+	height:30px;
+	border-radius:8px;
+}
